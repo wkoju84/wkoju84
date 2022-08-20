@@ -1,4 +1,4 @@
-### Olá! Eu sou o William Silva👍🤝
+### Olá! Eu sou o William 👍🤝
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silva-817673106/)
 
