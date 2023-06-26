@@ -1,9 +1,6 @@
 ### Olá! Eu sou o William 👍🤝
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silva-817673106/)
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=wkoju84&show_icons=true&theme=tokyonight)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkoju84&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
 
