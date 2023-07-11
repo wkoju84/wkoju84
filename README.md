@@ -18,4 +18,4 @@
 
 </div><br><br>
 
-Fullstack Developer em formação pela Digital House
+Fullstack Developer formado pela Digital House
