@@ -15,6 +15,7 @@
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img align = "center" alt = "html5" src = "https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
 
 </div><br><br>
 
