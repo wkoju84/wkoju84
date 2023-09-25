@@ -19,7 +19,7 @@
 
 </div><br><br>
 
-Fullstack Developer formado pela Digital House
+Desenvolvedor Back-end formado pela Digital House
 
 
 ## Github Stats
